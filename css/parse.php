@@ -19,7 +19,7 @@ $system = '../application/libraries/scaffold';
  *		1. One of the files in the request has changed
  *		2. The cache lifetime has expired (set below)
  */
-$config['production'] = true;
+$config['production'] = false;
 
 /**
  * Cache Lifetime

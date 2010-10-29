@@ -20,7 +20,7 @@
 }
 
 /*border-radius	*/
-@mixin radius($a){
+@mixin border-radius($a){
 	border-radius: $a;
 	-moz-border-radius: $a;
 	-webkit-border-radius: $a;
