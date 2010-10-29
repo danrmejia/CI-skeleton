@@ -2,21 +2,18 @@
 @charset 'UTF-8';
 
 /*import some rules first*/
-
-
+@import 'boilerplate.css'; /*html5boilerplate css*/
+@import 'variables.css'; /*sitewide variables*/
 @import 'mixins.css'; /*sitewide mixins*/
-
+@import 'typography.css'; /*sitewide typography*/
 /*end import*/
 
 /* Primary Styles
    Author: 
 */
-	.box{
-		background: black;
-		@include bg-gradient(#fff,#d9d9d9);
-	}
+	
 /*end primary styles*/
 
 /*add media queries for responsive design*/
-
+@import 'media.css';
 /*end media*/
