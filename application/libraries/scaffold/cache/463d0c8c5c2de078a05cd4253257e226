@@ -1,0 +1,1 @@
+{"contents":"@charset 'UTF-8';.box{background:black;background:#fff;background: -webkit-gradient(linear, 0 0, 0 bottom, from(#fff), to(#d9d9d9));background: -moz-linear-gradient(#fff, #d9d9d9);background:linear-gradient(#fff, #d9d9d9);-pie-background:linear-gradient(#fff, #d9d9d9);behavior:url(\/skeleton\/css\/PIE.htc)}","last_modified":1288350147,"expires":false}
